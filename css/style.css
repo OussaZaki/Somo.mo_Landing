@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url(../images/background.jpg);
+}
+#space {
+	height: 120px;
+}
+#paper {
+	position: 0 0;
+	width: 421px;
+	height: 330px;
+	background-image: url(../images/paper_line.png);
+	background-repeat: no-repeat;
+}
+#text1 {
+	padding-top:1.3em;
+	font-family:"CommercialScript BT";
+	font-size:36px;
+	text-align: center;
+	display: inline-block;
+}
+#text2 {
+	font-family:"CommercialScript BT";
+	color: #15a20c;
+	font-size:36px;
+	text-align: center;
+	display: inline-block;
+}
+
+#fo{
+	padding-top:5em;
+}
+#social{
+	alignment-adjust:middle;
+	padding-top:5.5em;
+}
+li,ul{
+	display:inline-block;
+}
+	
